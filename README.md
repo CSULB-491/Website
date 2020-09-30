@@ -18,22 +18,22 @@ Installation
 ------------
 Verifier is built with the Django Framework. The following steps will install all its prerequisites. Additional information can be found in the link below each step.
    
- 1. Download and install python v3.0 or later  
+ 1. **Download and install python v3.0 or later** 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Python Downloads](https://www.python.org/downloads/)
 
 
- 2. Install pip  
+ 2. **Install pip** 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py`  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`python get-pip.py`  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[pip documentation](https://pip.pypa.io/en/stable/installing/)
 
 
- 3. Install Django  
+ 3. **Install Django**
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`pip install Django`  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Django Documentation](https://docs.djangoproject.com/en/2.2/topics/install/)
 
 
- 4. Clone the appropriate repository  
+ 4. **Clone the appropriate repository**
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/CSULB-491/Website.git  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/CSULB-491/NLP.git  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/CSULB-491/Crawler.git 
@@ -46,7 +46,7 @@ Validator is organized into the three main repositories above. Each has their ow
 - Issue Tracker: https://github.com/CSULB-491/Website/issues  
 - Source Code: https://github.com/CSULB-491
 
-Merge Process is as follows.
+**Merge Process is as follows:**
 1. Contributor clones the repo
 2. Verifies functionality locally
 3. Pushes changes and makes a pull request with detailed changes+updates
@@ -56,7 +56,7 @@ Support
 -------
 
 If you are struggling, please reach out.
-Either create a GitHub Issue or send us an email at projectvalidator2019@gmail.com
+Either create a GitHub Issue or send us an email at **projectvalidator2019@gmail.com**
 
 License
 -------
