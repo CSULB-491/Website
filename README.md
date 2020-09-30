@@ -1,11 +1,12 @@
-Project Validator
-=================
+AN AMAZING PROJECT
+Project Validator 
+======================================================================================================================================================================
 
 Project Validator is a news aggregator that empowers modern readers to stay credibly informed in an age rife with disinformation. By tracking publisher credibility and article contents through machine learning, Validator is the single solution for agenda free, ad-free, honest information.
 
 
 Features
---------
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 - Removes clickbait 
 - Negates fake news
@@ -15,7 +16,7 @@ Features
 
 
 Installation
-------------
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Verifier is built with the Django Framework. The following steps will install all its prerequisites. Additional information can be found in the link below each step.
    
  1. Download and install python v3.0 or later  
@@ -40,7 +41,7 @@ Verifier is built with the Django Framework. The following steps will install al
 
 
 Contribute
-----------
+-----------------------------------------------------------------------------------------------------------------------------------------------------
 
 Validator is organized into the three main repositories above. Each has their own IssueTracker which follows the format below.  
 - Issue Tracker: https://github.com/CSULB-491/Website/issues  
@@ -53,12 +54,12 @@ Merge Process is as follows.
 4. After 2+ people in charge of that feature verify the functionality it will be merged with master
 
 Support
--------
+--------------------------------------------------------------------------------------------------------------------------------------------------------
 
 If you are struggling, please reach out.
 Either create a GitHub Issue or send us an email at projectvalidator2019@gmail.com
 
 License
--------
+----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 The project is licensed under GNU General Public License v3.0
