@@ -1,7 +1,7 @@
 Project Validator
 =================
 
-Project Validator is a news aggregator that empowers modern readers to stay credibly informed in an age rife with disinformation. By tracking publisher credibility and article contents through machine learning, Validator is the single solution for agenda free, ad-free, honest information.
+Project Validator is a news aggregator that empowers modern readers to stay credibly informed in an age rife with disinformation. By tracking publisher credibility and article contents through machine learning, Validator is the single and simple solution for agenda free, ad-free, honest information.
 
 
 Features
@@ -16,7 +16,7 @@ Features
 
 Installation
 ------------
-Verifier is built with the Django Framework. The following steps will install all its prerequisites. Additional information can be found in the link below each step.
+Verifier is built with the Django Framework. The following steps will install all its prerequisites. Additional information can be found in the link below each step :
    
  1. Download and install python v3.0 or later  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Python Downloads](https://www.python.org/downloads/)
@@ -42,11 +42,11 @@ Verifier is built with the Django Framework. The following steps will install al
 Contribute
 ----------
 
-Validator is organized into the three main repositories above. Each has their own IssueTracker which follows the format below.  
+Validator is organized into the three main repositories above. Each has their own IssueTracker which follows the format below :
 - Issue Tracker: https://github.com/CSULB-491/Website/issues  
 - Source Code: https://github.com/CSULB-491
 
-Merge Process is as follows.
+Merge Process is as follows :
 1. Contributor clones the repo
 2. Verifies functionality locally
 3. Pushes changes and makes a pull request with detailed changes+updates
