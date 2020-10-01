@@ -4,7 +4,7 @@ Project Validator
 Project Validator is a news aggregator that empowers modern readers to stay credibly informed in an age rife with disinformation. By tracking publisher credibility and article contents through machine learning, Validator is the single solution for agenda free, ad-free, honest information.
 
 
-Features
+Features of this website
 --------
 
 - Removes clickbait 
@@ -14,7 +14,7 @@ Features
 - Expedites/refines reading process with article insights
 
 
-Installation
+Installation of project
 ------------
 Verifier is built with the Django Framework. The following steps will install all its prerequisites. Additional information can be found in the link below each step.
    
