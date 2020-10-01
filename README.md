@@ -1,5 +1,6 @@
 
-Informative
+Information about
+
 Project Validator
 =================
 
