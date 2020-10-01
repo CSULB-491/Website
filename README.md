@@ -8,7 +8,7 @@ Features
 --------
 
 - Removes clickbait 
-- Negates fake news
+- Neglects fake news
 - 100% free with no ads
 - Completely customizable display
 - Expedites/refines reading process with article insights
