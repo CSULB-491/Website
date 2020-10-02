@@ -1,17 +1,17 @@
 Project Validator
 =================
 
-Project Validator is a news aggregator that empowers modern readers to stay credibly informed in an age rife with disinformation. By tracking publisher credibility and article contents through machine learning, Validator is the single solution for agenda free, ad-free, honest information.
+Project Validator is a news aggregator that empowers modern readers to stay credibly informed in an age rife with disinformation. By tracking publisher credibility and article contents through machine learning, Validator is the single solution for agenda free, ad-free and honest information.
 
 
 Features
 --------
 
-- Removes clickbait 
-- Negates fake news
-- 100% free with no ads
-- Completely customizable display
-- Expedites/refines reading process with article insights
+- Removes clickbait.
+- Negates fake news.
+- 100% free with no ads.
+- Completely customizable display.
+- Expedites/refines reading process with article insights.
 
 
 Installation
@@ -47,10 +47,10 @@ Validator is organized into the three main repositories above. Each has their ow
 - Source Code: https://github.com/CSULB-491
 
 Merge Process is as follows.
-1. Contributor clones the repo
-2. Verifies functionality locally
-3. Pushes changes and makes a pull request with detailed changes+updates
-4. After 2+ people in charge of that feature verify the functionality it will be merged with master
+1. Contributor clones the repo.
+2. Verifies functionality locally.
+3. Pushes changes and makes a pull request with detailed changes+updates.
+4. After 2+ people in charge of that feature verify the functionality it will be merged with master.
 
 Support
 -------
