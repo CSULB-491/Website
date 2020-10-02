@@ -14,7 +14,7 @@ Features
 - Expedites/refines reading process with article insights
 
 
-Installation
+Installation Needed
 ------------
 Verifier is built with the Django Framework. The following steps will install all its prerequisites. Additional information can be found in the link below each step.
    
