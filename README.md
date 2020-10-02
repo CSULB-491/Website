@@ -22,13 +22,13 @@ Verifier is built with the Django Framework. The following steps will install al
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Python Downloads](https://www.python.org/downloads/)
 
 
- 2. Install pip  
+ 2. Installing pip  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py`  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`python get-pip.py`  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[pip documentation](https://pip.pypa.io/en/stable/installing/)
 
 
- 3. Install Django  
+ 3. Installing Django  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`pip install Django`  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Django Documentation](https://docs.djangoproject.com/en/2.2/topics/install/)
 
