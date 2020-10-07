@@ -1,5 +1,5 @@
 """
-ASGI config for WebsiteCecs491 project.
+ASGI config for WebsiteCecs491 project.Great Information
 
 It exposes the ASGI callable as a module-level variable named ``application``.
 
